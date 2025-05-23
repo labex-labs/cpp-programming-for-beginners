@@ -31,32 +31,32 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                      | 難易度   | 練習                                                                                                                         |
 |----------------|-------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 最初の C++ プログラムを書く            | ★★★      | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-write-your-first-c-program-446069'>ラボを開始</a>                 |
-|             02 | 🎯 多言語挨拶メッセージの作成             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-craft-multilingual-greeting-messages-446094'>チャレンジを開始</a> |
-|             03 | 📖 C++ における変数とデータ型             | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-variables-and-data-types-in-c-446078'>ラボを開始</a>              |
-|             04 | 🎯 温度変換器を作成する                   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-a-temperature-converter-446144'>チャレンジを開始</a>         |
-|             05 | 📖 C++ 演算子を実装する                   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-implement-c-operators-446084'>ラボを開始</a>                      |
-|             06 | 🎯 温度比較ユーティリティの実装           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/implement-temperature-comparison-utility-446145'>チャレンジを開始</a> |
-|             07 | 📖 C++ における制御フロー構造             | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-control-flow-structures-in-c-446083'>ラボを開始</a>               |
-|             08 | 🎯 If-Else を使った成績評価システムの実装 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-implement-grading-system-with-if-else-446149'>チャレンジを開始</a>  |
-|             09 | 📖 C++ で関数を定義して使用する           | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-define-and-use-functions-in-c-446080'>ラボを開始</a>              |
-|             10 | 🎯 柔軟な数学関数の作成                   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-flexible-math-functions-446161'>チャレンジを開始</a>         |
-|             11 | 📖 C++ で配列と文字列を操作する           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-manipulate-arrays-and-strings-in-c-446085'>ラボを開始</a>         |
-|             12 | 🎯 学生の点数配列を操作する               | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/c-manipulate-student-scores-array-446194'>チャレンジを開始</a>        |
-|             13 | 📖 C++ でクラスとオブジェクトを作成する   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-create-classes-and-objects-in-c-446079'>ラボを開始</a>            |
-|             14 | 🎯 学生管理システムの設計                 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-design-a-student-management-system-446288'>チャレンジを開始</a>   |
-|             15 | 📖 C++ での例外処理                       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-handle-exceptions-in-c-446082'>ラボを開始</a>                     |
-|             16 | 🎯 カスタム例外ハンドラーの作成           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-create-a-custom-exception-handler-446292'>チャレンジを開始</a>    |
-|             17 | 📖 C++ における動的メモリ割り当て         | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-dynamic-memory-allocation-in-c-446081'>ラボを開始</a>             |
-|             18 | 🎯 動的メモリを安全に管理する             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-manage-dynamic-memory-safely-446299'>チャレンジを開始</a>         |
-|             19 | 📖 C++ でファイル操作を行う               | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-perform-file-operations-in-c-446086'>ラボを開始</a>               |
-|             20 | 🎯 学生ログファイルの作成                 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-create-a-student-log-file-446297'>チャレンジを開始</a>            |
-|             21 | 📖 C++ で STL コンポーネントを使用する    | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-use-stl-components-in-c-446087'>ラボを開始</a>                    |
-|             22 | 🎯 シンプルな学生名簿の実装               | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-implement-a-simple-student-roster-446298'>チャレンジを開始</a>    |
+|             01 | 📖 最初の C++ プログラムを書く            | 上級     | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-write-your-first-c-program-446069'>ラボを開始</a>                 |
+|             02 | 🎯 多言語挨拶メッセージの作成             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-craft-multilingual-greeting-messages-446094'>チャレンジを開始</a> |
+|             03 | 📖 C++ における変数とデータ型             | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-variables-and-data-types-in-c-446078'>ラボを開始</a>              |
+|             04 | 🎯 温度変換器を作成する                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-a-temperature-converter-446144'>チャレンジを開始</a>         |
+|             05 | 📖 C++ 演算子を実装する                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-implement-c-operators-446084'>ラボを開始</a>                      |
+|             06 | 🎯 温度比較ユーティリティの実装           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/implement-temperature-comparison-utility-446145'>チャレンジを開始</a> |
+|             07 | 📖 C++ における制御フロー構造             | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-control-flow-structures-in-c-446083'>ラボを開始</a>               |
+|             08 | 🎯 If-Else を使った成績評価システムの実装 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-implement-grading-system-with-if-else-446149'>チャレンジを開始</a>  |
+|             09 | 📖 C++ で関数を定義して使用する           | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-define-and-use-functions-in-c-446080'>ラボを開始</a>              |
+|             10 | 🎯 柔軟な数学関数の作成                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-create-flexible-math-functions-446161'>チャレンジを開始</a>         |
+|             11 | 📖 C++ で配列と文字列を操作する           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-manipulate-arrays-and-strings-in-c-446085'>ラボを開始</a>         |
+|             12 | 🎯 学生の点数配列を操作する               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/c-manipulate-student-scores-array-446194'>チャレンジを開始</a>        |
+|             13 | 📖 C++ でクラスとオブジェクトを作成する   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-create-classes-and-objects-in-c-446079'>ラボを開始</a>            |
+|             14 | 🎯 学生管理システムの設計                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-design-a-student-management-system-446288'>チャレンジを開始</a>   |
+|             15 | 📖 C++ での例外処理                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-handle-exceptions-in-c-446082'>ラボを開始</a>                     |
+|             16 | 🎯 カスタム例外ハンドラーの作成           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-create-a-custom-exception-handler-446292'>チャレンジを開始</a>    |
+|             17 | 📖 C++ における動的メモリ割り当て         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-dynamic-memory-allocation-in-c-446081'>ラボを開始</a>             |
+|             18 | 🎯 動的メモリを安全に管理する             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-manage-dynamic-memory-safely-446299'>チャレンジを開始</a>         |
+|             19 | 📖 C++ でファイル操作を行う               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-perform-file-operations-in-c-446086'>ラボを開始</a>               |
+|             20 | 🎯 学生ログファイルの作成                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-create-a-student-log-file-446297'>チャレンジを開始</a>            |
+|             21 | 📖 C++ で STL コンポーネントを使用する    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-use-stl-components-in-c-446087'>ラボを開始</a>                    |
+|             22 | 🎯 シンプルな学生名簿の実装               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/cpp-implement-a-simple-student-roster-446298'>チャレンジを開始</a>    |
 
 ## その他
 
-- 🔗 [C++ Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [C++ Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
+- 🔗 [C++ プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [C++ プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [C++ 無料チュートリアル](https://github.com/labex-labs/cpp-free-tutorials)
 
