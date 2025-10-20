@@ -40,19 +40,9 @@ Este curso está diseñado para principiantes absolutos en la programación en C
 |       21 | 📖  Utilizar componentes de la STL en C++                   | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/cpp-use-stl-components-in-c-446087'>Iniciar Laboratorio</a>            |
 |       22 | 🎯  Implementar una Lista de Estudiantes Simple             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/cpp-implement-a-simple-student-roster-446298'>Iniciar Desafío</a>      |
 
-## Entorno
+## Acerca de LabEx
 
-LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- Un enfoque estricto de "Aprender Haciendo" con laboratorios prácticos exclusivos y sin videos.
-- Entornos en línea interactivos dentro del navegador, con verificaciones paso a paso automatizadas.
-- Una organización de contenido estructurada con el sistema basado en Árbol de Habilidades.
-- Un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios.
-- El asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
-
-Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 ## Más
 
